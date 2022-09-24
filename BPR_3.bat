@@ -7,3 +7,4 @@ dir
 type style.html
 notepad concat.html
 pause
+pause
